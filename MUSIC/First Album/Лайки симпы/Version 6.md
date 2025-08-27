@@ -4,6 +4,7 @@ Urban Pop, electronic hip-hop, pop, use silence as a gun, use woman background c
 
 Urban Pop, electronic hip-hop, pop, dynamic rhythm, serious male vocals, confident and energetic performance, rhythmic flow, punchy delivery, no slowdown, high intensity, use space and silence as a gun!
 
+Urban Pop, electronic hip-hop, pop, dynamic sidechain beat rhythm, serious clear male vocals, confident and energetic performance, rhythmic flow, punchy delivery, no slowdown, high intensity, use space and silence as a gun!
 
 [Pre-Chorus]
 Ставьте симпы
@@ -11,12 +12,11 @@ Urban Pop, electronic hip-hop, pop, dynamic rhythm, serious male vocals, confide
 Лайки-симпы
 Симпы-лайкиииии!
 
-
 [Verse 1]
-Медиа иглы крепко засели во мне с трёх лет
+Медиа иглы крепко засели во мне с малых лет
 Я давно не ребенок, но наверно и не человек,
-Ты потребляешь меня регулярно, ведь я контент,
-Я убиваю тебя твоим же вниманием, тебе конец!
+Ты потребляешь меня регулярно, ибо я контент,
+Я убиваю тебя твоим же вниманием, тебе (конец)!
 
 Мы уже не живём, мы подаём сигналы,
 Теперь ты приёмник, а я трансмиттер,
@@ -31,7 +31,8 @@ Urban Pop, electronic hip-hop, pop, dynamic rhythm, serious male vocals, confide
 Лайки-симпы
 Симпы-лайки
 Do you like it!?
-Ой! Я зависим! (ха-ха-ха-хааа)
+Yes, I like it!
+Yes, I like it!! (хууу-ааа-ааа)
 
 [Verse 2]
 Мы не платим тебе, но держим на цепи:
@@ -40,7 +41,7 @@ Do you like it!?
 Твоё внимание для нас — источник питания. (у-у-уууу)
 
 Ты убегаешь от скуки, теряешь себя,
-Последний твой пост — это крик: «Я здесь, я здесь!»
+Каждый твой пост — это крик: «Я здесь, я здесь!»
 Но как только придёт тишина — ты включишь режим:
 "Ага, Ещё один, Ещё один, ещё-ещё-ещё-ещё!"
 
@@ -51,13 +52,14 @@ Do you like it!?
 Симпы-лайки оставляйте!
 Лайки-симпы
 Do you like it!?
-Ой! Я зависим! (ха-ха-хааа)
+Ой! Yes, I like it!
+Yes, I like it!! (хууу-ааа-ааа)
 
 [Bridge]
 Кто зависим!?
 Я зависим!?
 Не гони, бро…
-Я просто лутаю твою жизнь...
+Я просто триггер...
 
 [Instrumental]
 
@@ -71,21 +73,10 @@ Do you like it!?
 Yes I like it!
 Do you need it?
 ...
-(Maybe... But I feel like I’m invisible…...)
+(Maybe yes... Or maybe not... Or maybe (like you!))
 
 
 
 
 
 
-
-[Verse 2]
-Они не платят тебе, но держат на цепи:
-Чем дольше ты с ними, тем уже сознанье,
-Ты просто продукт, ты — таргет рекламы,
-Твоё внимание для них — лишь капля в океане. (у-у-уууу)
-
-Ты убегаешь от скуки, теряешь себя
-Последний твой пост — это крик: «Я здесь, я здесь!»
-Но как только придёт тишина — ты включишь режим:
-"Ага, Ещё один, Ещё один, ещё-ещё-ещё!"
