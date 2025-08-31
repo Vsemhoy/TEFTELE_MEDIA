@@ -2,6 +2,7 @@ broken beat, dynamic, autotuned male and female vocals, fast, intense energy and
 
 Urban pop, broken beat, dynamic, autotuned male and female vocals, fast, intense energy and emotional depth, lirycs, natural singing, long vowels, more tragedy
 
+broken beat, dynamic, autotuned male and female vocals, fast, intense energy and emotional depth, lirycs, natural singing, long vowels
 
 [Verse 1]
 Мы с тобой — как лёд и пламя,
@@ -78,8 +79,6 @@ Urban pop, broken beat, dynamic, autotuned male and female vocals, fast, intense
 [Chorus]
 Я взрываюсь изнутри
 Разлетаюсь на осколки
-А затем эти осколки
-Снова на осколки
 А потом эти осколки
 Снова на осколки
 И эти осколки — тоже на осколки
