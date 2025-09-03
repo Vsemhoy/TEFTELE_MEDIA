@@ -1,3 +1,5 @@
+dance-pop, quirky, electronic groove with playful synths and rhytmic beats
+
 [Verse]
 На пустыре
 Где ветер свищет
