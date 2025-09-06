@@ -2,6 +2,9 @@
 Тема: Космодром Байконур - мой дом. An atmospheric, extended track begins with forest sounds—birdsong, wind, flute and human voices. At dawn, a powerful low reverberant steamboat horn signals sunrise, with distant human voices. Soft vocal. Male voices join the female. Soft, melodic, atmospheric composition starts bright with high frequencies and goes into night. FSOL style. Песня на Русском!
 
 
+low, extended, male and female voices, bright, soft, vocal, atmospheric, layered textures, starts bright and transitions into night, soft vocal, flute and ambient nature sounds
+
+
 [Verse]
 На рассвете ракеты молчат
 Туман дремлет
@@ -12,7 +15,7 @@
 Задует свечи...
 
 [Prechorus]
-Видишь
+Смотри
 Где дым и пламя
 Видишь
 Там наше знамя
@@ -37,8 +40,8 @@
 [Prechorus]
 Слушай
 Как звёзды говорят
-Слушай
-Как небо шлёт свой взгляд
+Слышишь
+Как небо шлёт нам знак
 
 [Chorus]
 Байконур мой дом
