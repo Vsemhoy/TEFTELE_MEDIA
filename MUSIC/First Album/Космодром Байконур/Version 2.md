@@ -6,9 +6,10 @@ low, extended, male and female voices, bright, soft, vocal, atmospheric, layered
 
 
 [Verse]
-На рассвете ракеты молчат
-Туман дремлет
-Время терпит 
+На закате 
+Ракеты молчат
+Туман стелится
+Время шепчет 
 Птицы вьются
 Крылами в такт
 Ветра шепот
@@ -29,7 +30,7 @@ low, extended, male and female voices, bright, soft, vocal, atmospheric, layered
 Как огонь
 Разжигают
 Байконур меня 
-В путь далёкий отправляет
+В добрый путь провожает
 
 [Verse 2]
 Звёзды прячутся в небесах
@@ -52,7 +53,7 @@ low, extended, male and female voices, bright, soft, vocal, atmospheric, layered
 Как огонь
 Разжигают
 Байконур меня
-Из далёких краёв встречает
+Силой космоса наполняет
 
 
 [Bridge]
@@ -62,4 +63,14 @@ low, extended, male and female voices, bright, soft, vocal, atmospheric, layered
 Эхо звёздных голосов
 В сердце Байконурских снов
 
-[instrumental]
+
+[Chorus]
+Байконур мой дом
+Мой свет
+Взлёты ракет
+Следы комет
+Где мечты
+Как огонь
+Разжигают
+Байконур меня
+Из далёких краёв встречает
