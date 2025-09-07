@@ -1,5 +1,18 @@
 dance-pop, quirky, electronic groove with playful synths and rhytmic beats
 
+Maximum Playful sweat calm female voice. 
+Light dance-pop, quirky, electronic groove with playful melodic atmospheric synths and rhytmic synths, playful sweat singing. 
+Fairy tale theme. Use sweat laughing and female choir.
+
+Playful sweat calm female voice. 
+Light beats, quirky, electronic groove with playful melodic atmospheric synths and rhytmic synths, playful sweat singing. 
+Use sweat laughing and female choir at the second parts. Use forest or jungle sounds. Use style like FSOL. Make sweat and secret, Not silly.
+
+A measured, slow, unhurried song.
+Calm female voice. 
+Light beats, quirky, electronic groove with playful melodic atmospheric synths and rhytmic synths, playful sweat singing. 
+Use forest or jungle sounds as in soundtrack. Use style like FSOL. Make sweat and secret
+
 [Verse]
 На пустыре
 Где ветер свищет
@@ -36,11 +49,8 @@ dance-pop, quirky, electronic groove with playful synths and rhytmic beats
 Бип-пиби
 Пап-пара бум
 
-[Sweat Instrumental]
-Пап-пап-пара-пам
-Пап-пап-пара-пурум
-Пап-пап-пара-пам
-Пап-пап-пара-пурум
+[Sweat Vocal Instrumental]
+
 
 [Bridge]
 Ты спросишь
