@@ -14,8 +14,13 @@ Light beats, quirky, electronic groove with playful melodic atmospheric synths a
 Use forest or jungle sounds as in soundtrack. Use style like FSOL. Make sweat and secret
 
 A measured, slow, unhurried song.
-Calm sensitive female voice. 
+Calm sensitive male voice. 
 Light beats, quirky, electronic groove with playful melodic atmospheric synths and rhytmic synths, playful sweat singing. 
+Use forest or jungle sounds as in soundtrack. Make sweat and secret land.
+
+A measured, slow, unhurried song.
+Calm sensitive male voice. 
+Light beats, quirky, electronic groove with playful melodic atmospheric synths and rhytmic synths, playful sweat singing.
 Use forest or jungle sounds as in soundtrack. Make sweat and secret land.
 
 [Verse]
