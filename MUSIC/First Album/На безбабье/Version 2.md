@@ -13,6 +13,11 @@ Calm female voice.
 Light beats, quirky, electronic groove with playful melodic atmospheric synths and rhytmic synths, playful sweat singing. 
 Use forest or jungle sounds as in soundtrack. Use style like FSOL. Make sweat and secret
 
+A measured, slow, unhurried song.
+Calm sensitive female voice. 
+Light beats, quirky, electronic groove with playful melodic atmospheric synths and rhytmic synths, playful sweat singing. 
+Use forest or jungle sounds as in soundtrack. Make sweat and secret land.
+
 [Verse]
 На пустыре
 Где ветер свищет
@@ -49,7 +54,7 @@ Use forest or jungle sounds as in soundtrack. Use style like FSOL. Make sweat an
 Бип-пиби
 Пап-пара бум
 
-[Sweat Vocal Instrumental]
+[Sweat Instrumental]
 
 
 [Bridge]
