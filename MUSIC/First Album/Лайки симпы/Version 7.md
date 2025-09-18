@@ -10,6 +10,7 @@ Use forest or jungle sounds as in soundtrack. Make sweat and secret electronic l
 Ставьте лайки
 Лайки-симпы
 Симпы-лайкиииии!
+Лаки-страйки!
 
 
 [Verse 1]
