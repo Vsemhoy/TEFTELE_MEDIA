@@ -1,7 +1,7 @@
-A measured, sllow, downtempo, unhurried song.
+A measured, slow, downtempo, unhurried song.
 Calm sensitive male voice. 
 Light beats, quirky, electronic groove with playful melodic atmospheric synths and rhytmic synths, playful sweat singing, but a little bit of lucky.
-Use forest or jungle sounds as in soundtrack. Make sweat and secret electronic land
+Use forest or jungle sounds as in soundtrack. Make sweat and secret land
 
 
 
