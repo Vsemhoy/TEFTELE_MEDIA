@@ -62,18 +62,18 @@ One, two, step. Repeat!
 Step, step. One, two, step.  
 One, two, step. Repeat. Ouhhh!!!  
 
-[instrumental]
-
 (Танцуй, как будто никто не видит)  
 Step, step. One, two, step.  
 One, two, step. Repeat!  
 (Танцуй, как будто это life)  
-Ouhhh!!!  
+Ouhhh!!! 
+
+[instrumental]
 
 [Bridge – чуть медленнее, с улыбкой]
 Иногда не надо никуда,  
 Иногда просто шагни — и всё будет okay.
-Ветер тёплый гонит облака,
+Ритм сердца скажет, что пора,
 Просто move your body, darling, вперёд, не стой!
 
 
