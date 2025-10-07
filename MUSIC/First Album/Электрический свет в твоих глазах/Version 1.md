@@ -1,6 +1,11 @@
 Urban-pop, electro, futuristic, pop, experimental.
 
-Urban Pop, electronic hip-hop, pop, fast breakbeat, dynamic rhythm, aggressive male vocals, confident and energetic performance, rhythmic flow, punchy delivery, no slowdown, high intensity
+<!-- Urban Pop, Futuristic, electronic hip-hop, pop, fast breakbeat, dynamic rhythm, aggressive male vocals, confident and energetic performance, rhythmic flow, punchy delivery, no slowdown, high intensity. We shoudl want to dance by this song. -->
+
+Urban-pop, electro, futuristic, pop, experimental.
+Calm sensitive male voice. 
+Light beats, quirky, electronic groove with playful melodic atmospheric synths and rhytmic synths, playful sweat singing, but a little bit of sadness.
+Use urban soft sounds as in soundtrack. Make sweat and neon land.
 
 
 [Verse]
@@ -59,7 +64,7 @@ Urban Pop, electronic hip-hop, pop, fast breakbeat, dynamic rhythm, aggressive m
 
 Электрический свет в твоих глазах
 Ты сгоришь как звезда в моих мечтах
-На рассвете цепляюсь за последний час
+Я на рассвете цепляюсь за последний час
 Будет всё что ты хочешь, но не сейчас...
 
 [instrumental]
