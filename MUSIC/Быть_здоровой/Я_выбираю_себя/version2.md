@@ -9,7 +9,6 @@ Glossy 80s-style synth-pop, female vocals purring over bright arpeggiated keys a
 Кофе остыл
 А сердце поёт
 В зеркало смотрю украдкой
-[Guitar rife]
 Кто эта девчонка — узнаю её
 Чуть-чуть устала
 Но в глазах ещё огонь
@@ -18,7 +17,7 @@ Glossy 80s-style synth-pop, female vocals purring over bright arpeggiated keys a
 
 [Chorus]
 Быть здоровой — это моё призвание
-(о-о-о, да)
+(о-о-о, дааааа!)
 Выбирая спорт
 Я выбираю себя
 Легче дышать от простого старания
@@ -46,7 +45,7 @@ Glossy 80s-style synth-pop, female vocals purring over bright arpeggiated keys a
 
 [Chorus]
 Быть здоровой — это моё призвание
-(о-о-о, да)
+(о-о-о, дааааа!)
 Выбирая спорт
 Я выбираю себя
 Легче дышать от простого старания
@@ -74,7 +73,7 @@ Glossy 80s-style synth-pop, female vocals purring over bright arpeggiated keys a
 
 [Chorus] (финальный)
 Быть здоровой — это моё призвание
-(о-о-о, да)
+(о-о-о, даааа!)
 Выбирая спорт
 Я выбираю себя
 Легче дышать от простого старания
@@ -85,13 +84,16 @@ Glossy 80s-style synth-pop, female vocals purring over bright arpeggiated keys a
 Чуть-чуть упорства — и стало привычкой
 Верить в себя каждый новый рассвет
 
+[Outro]
 
 
 
-
-
+Sandra vibe 80s-style synth-pop, female emotional vocals purring over bright arpeggiated keys and soft gated drums. Verses stay intimate with warm pads and subtle chorus guitar; choruses bloom into airy harmonies, sparkly bell hooks, and a gently driving bass line. Energy arcs from tender reflection to shimmering, danceable optimism by the final chorus. Express love for sports of a beautiful, fragile girl
 
 
 
 Как вариант:
 Чуть-чуть собраться -> Чуть отдышаться
+
+Плохой результат:
+Sandra vibe 80s-style synth-pop, female emotional vocals purring over bright arpeggiated keys and soft gated drums. Verses stay intimate with warm pads and subtle chorus guitar; choruses bloom into airy harmonies, sparkly bell hooks, and a gently driving bass line. Energy arcs from tender reflection to shimmering, danceable optimism by the final chorus. Energetic sport song like manifest. Express love for sports of a beautiful, fragile girl
