@@ -6,7 +6,9 @@ Sandra vocal, 80s-style synth-pop, female emotional vocals purring over bright a
 Кофе остыл
 
 А сердце поёт
+
 В зеркало смотрю украдкой
+
 Кто эта девчонка?
 узнаю её
 
@@ -77,7 +79,7 @@ Sandra vocal, 80s-style synth-pop, female emotional vocals purring over bright a
 И это право
 Во мне не отнять
 
-[Instrumental]
+[Delay]
 
 [Chorus] (финальный)
 Быть здоровой — это моё призвание
@@ -86,9 +88,11 @@ Sandra vocal, 80s-style synth-pop, female emotional vocals purring over bright a
 Я выбираю себя
 Легче дышать от простого старания
 Пара движений — и плавится лёд
+
 Чем я сильнее
 Тем меньше сомнений
 Грустная нота в улыбке поёт
+
 Чуть-чуть упорства — и стало привычкой
 Верить в себя каждый новый рассвет
 
